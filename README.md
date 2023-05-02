@@ -4,7 +4,7 @@ This repo contains code I authored or heavily adapted to:
 * process microclimate and macroclimate data according to the the,
 * create publication ready figures,
 
-as part of my unpublished Master's thesis *Assessing the Impact of TLS-Derived Vegetation Structure on Microclimatic Variability in Taita Hills, Kenya*. Code is commented and semi-reproducible. File dependencies are not provided due to file size limitations, licensing reasons, and time constraints.
+as part of my unpublished Master's thesis *Assessing the Impact of TLS-Derived Vegetation Structure on Microclimatic Variability in Taita Hills, Kenya*. Comments are provided. Code is semi-reproducible and serves as supplementary material to the thesis. File dependencies are not provided due to file size limitations, licensing reasons, and time constraints.
 
 ## Temperature Data
 - [TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
