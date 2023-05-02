@@ -3,10 +3,7 @@ This repo contains code I (re)-wrote to:
 * extract structural metrics from pre-processed point cloud data (mostly adapted from supervisors),
 * process microclimate and macroclimate data,
 * create figures,
-* 
-as part of my unpublished Master's thesis *Assessing the Impact of TLS-Derived Vegetation Structure on Microclimatic Variability in Taita Hills, Kenya*. Code is commented and semi-reproducible. File dependencies are not provided due to file size limitations and time constraints.
-
-Take care that the licensing agreement only refers to 
+as part of my unpublished Master's thesis *Assessing the Impact of TLS-Derived Vegetation Structure on Microclimatic Variability in Taita Hills, Kenya*. Code is commented and semi-reproducible. File dependencies are not provided due to file size limitations, licensing reasons, and time constraints.
 
 ## Temperature Data
 - [TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
@@ -17,7 +14,7 @@ Take care that the licensing agreement only refers to
 ## GIS
 - [TMS-4 sensor location as .kmz to (for GIS import)](locations_kmz/)
 ## License
-- [TMS-4 sensor location as .kmz to (for GIS import)](locations_kmz/)[^1]
+- [CC-BY-4.0](LICENSE: CC-BY-4.0)[^1]
 
 
-[^1]: Please note that the licensing agreement concerns only code provided in this repo and neither the thesis itself nor other output I created for my thesis.
+[^1]: Please note that the license only applies to code provided in this repo but neither the thesis's text body or other output I created for my thesis.
