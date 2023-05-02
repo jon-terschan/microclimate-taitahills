@@ -1,8 +1,8 @@
 # Contents
-This repo contains code I (re)-wrote to:
-* extract structural metrics from pre-processed point cloud data (mostly adapted from supervisors),
-* process microclimate and macroclimate data,
-* create figures,
+This repo contains code I authored or heavily adapted to:
+* extract vegetation plant area density, index, and other metrics reflecting vegetation structure from pre-processed point cloud data (mostly adapted from supervisors),
+* process microclimate and macroclimate data according to the the,
+* create publication ready figures,
 as part of my unpublished Master's thesis *Assessing the Impact of TLS-Derived Vegetation Structure on Microclimatic Variability in Taita Hills, Kenya*. Code is commented and semi-reproducible. File dependencies are not provided due to file size limitations, licensing reasons, and time constraints.
 
 ## Temperature Data
@@ -15,6 +15,5 @@ as part of my unpublished Master's thesis *Assessing the Impact of TLS-Derived V
 - [TMS-4 sensor location as .kmz to (for GIS import)](locations_kmz/)
 ## License
 - [CC-BY-4.0](https://github.com/jon-terschan/microclimate-taitahills/blob/main/LICENSE:%20CC-BY-4.0)[^1]
-
 
 [^1]: Please note that the license applies only to code provided by this repo but neither the thesis's text body or other output created for the thesis.
