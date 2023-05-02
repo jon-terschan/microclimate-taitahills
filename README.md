@@ -11,4 +11,8 @@ and a licensing agreement.
 Code is commented and semi-reproducible. File dependencies are not provided due to file size limitations and time constraints.
 
 # Contents
-[TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
+1. [TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
+2. [TMS-4 sensor location as .kmz to (for GIS import)](locations_kmz/)
+3. [TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
+4. [TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
+5. [TMS-4 sensor readings processing pipeline](microclimate/microclimate_summary.R)
